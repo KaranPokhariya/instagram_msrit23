@@ -4237,3 +4237,226 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 1670946687878	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1671021082412	geckodriver	INFO	Listening on 127.0.0.1:57813
+1671021082898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "42007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLb4Vsk"
+*** You are running in headless mode.
+1671021084154	Marionette	INFO	Marionette enabled
+1671021084163	Marionette	INFO	Listening on port 34433
+Read port: 34433
+WebDriver BiDi listening on ws://127.0.0.1:42007
+1671021084417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLb4Vsk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42007/devtools/browser/11a2737b-30f9-4703-9e15-e831788021a0
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1671021122462	geckodriver	INFO	Listening on 127.0.0.1:36005
+1671021122966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAN4CrC"
+1671021124236	Marionette	INFO	Marionette enabled
+1671021124242	Marionette	INFO	Listening on port 36525
+Read port: 36525
+WebDriver BiDi listening on ws://127.0.0.1:49771
+1671021124500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAN4CrC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49771/devtools/browser/299b7640-996d-4c5a-9e7d-762f82c180fe
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1671027861591	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1671028318707	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1671028320287	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1671028555158	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1671028555722	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028555863	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028556005	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028556156	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028556294	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028556451	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028556594	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028556730	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028556868	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028557012	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028557154	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028557290	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028557427	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028557585	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028557733	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028557869	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028558005	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028558140	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028558274	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028558409	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028558549	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028558695	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028558834	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028558970	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028559105	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028559240	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028559370	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028559505	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028559642	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028559784	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028559926	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028560061	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028560195	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028560329	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028560464	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028560596	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028560730	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028560874	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028561018	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028561152	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028561287	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028561422	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028561560	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028561777	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028562150	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028562473	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028562769	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028563063	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028563403	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028563869	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028564379	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028564877	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028565294	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028565854	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028566119	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028566259	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028566397	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028566535	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028566680	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028566906	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028567093	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028567279	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028567467	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028567657	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028567862	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028568074	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028568286	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028568477	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028568668	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028568868	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028569059	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028569276	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028569469	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028569714	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028570082	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028570304	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028570567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028570835	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028571168	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1671028573400	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1671028659827	Marionette	INFO	Stopped listening on port 36525
+1671028726463	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
