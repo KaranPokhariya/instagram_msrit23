@@ -4460,3 +4460,122 @@ webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173
 A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
 1671028659827	Marionette	INFO	Stopped listening on port 36525
 1671028726463	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1671089299165	geckodriver	INFO	Listening on 127.0.0.1:40869
+1671089299652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileh5h2U4"
+Error: no DISPLAY environment variable specified
+1671089680429	geckodriver	INFO	Listening on 127.0.0.1:53367
+1671089680934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "59913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileml9ln3"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1671089682027	Marionette	INFO	Marionette enabled
+1671089682034	Marionette	INFO	Listening on port 41353
+Read port: 41353
+WebDriver BiDi listening on ws://127.0.0.1:59913
+1671089682295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileml9ln3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59913/devtools/browser/db0e2541-b37f-4aac-832d-5066e4af7a6f
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ir0r4/yE/l/en_US/jXg056cr7TO.js?_nc_x=Ij3Wp8lg5Kz, line 63: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ir0r4/yE/l/en_US/jXg056cr7TO.js?_nc_x=Ij3Wp8lg5Kz, line 63: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ir0r4/yE/l/en_US/jXg056cr7TO.js?_nc_x=Ij3Wp8lg5Kz, line 63: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ir0r4/yE/l/en_US/jXg056cr7TO.js?_nc_x=Ij3Wp8lg5Kz, line 63: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/xXDOO3oMCfl.js?_nc_x=Ij3Wp8lg5Kz, line 43: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/xXDOO3oMCfl.js?_nc_x=Ij3Wp8lg5Kz, line 43: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/xXDOO3oMCfl.js?_nc_x=Ij3Wp8lg5Kz, line 43: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/xXDOO3oMCfl.js?_nc_x=Ij3Wp8lg5Kz, line 43: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1671105289026	geckodriver	INFO	Listening on 127.0.0.1:48021
+1671105289516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "42797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGz5PcT"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1671105290867	Marionette	INFO	Marionette enabled
+1671105290874	Marionette	INFO	Listening on port 40733
+Read port: 40733
+WebDriver BiDi listening on ws://127.0.0.1:42797
+1671105291138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGz5PcT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42797/devtools/browser/551fc215-03fe-4d2c-b802-09e5527fbdc1
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ir0r4/yE/l/en_US/jXg056cr7TO.js?_nc_x=Ij3Wp8lg5Kz, line 63: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ir0r4/yE/l/en_US/jXg056cr7TO.js?_nc_x=Ij3Wp8lg5Kz, line 63: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ir0r4/yE/l/en_US/jXg056cr7TO.js?_nc_x=Ij3Wp8lg5Kz, line 63: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ir0r4/yE/l/en_US/jXg056cr7TO.js?_nc_x=Ij3Wp8lg5Kz, line 63: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/xXDOO3oMCfl.js?_nc_x=Ij3Wp8lg5Kz, line 43: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/xXDOO3oMCfl.js?_nc_x=Ij3Wp8lg5Kz, line 43: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/xXDOO3oMCfl.js?_nc_x=Ij3Wp8lg5Kz, line 43: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/xXDOO3oMCfl.js?_nc_x=Ij3Wp8lg5Kz, line 43: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yU/l/en_US/yBQX2U-t-e0.js?_nc_x=Ij3Wp8lg5Kz, line 27: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
